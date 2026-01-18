@@ -13,8 +13,8 @@ The framework demonstrates configuration-driven automation, parallel execution, 
 - Pre-Fetch, Pre-Validation, Task Execution, and Post-Validation stages
 
 ---
-```
 ## Project Structure
+```
 avi_test_framework/
 │
 ├── config/
